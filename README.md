@@ -9,7 +9,6 @@
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sayso16&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sayso16&theme=tokyonight&hide_border=false)<br/>
